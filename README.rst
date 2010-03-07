@@ -1,7 +1,7 @@
 Django-cachebot
 =================
 
-Django-cachebot provides automated caching and invalidation for the Django ORM. 
+Django-cachebot provides auto sldkj ;lksjdcaching and invalidation for the Django ORM. 
 
 
 Installation
